@@ -7,5 +7,6 @@
         "Michael J. Kahana"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds005411.v1.0.0",
-    "License": "CC0"
+    "License": "CC0",
+    "Acknowledgements": "We thank our collaborators who have helped in the collection of this data: Thomas Jefferson University Hospital, Dartmouth-Hitchcock Medical Center, Emory University Hospital, University of Texas Southwestern Medical Center."
 }
